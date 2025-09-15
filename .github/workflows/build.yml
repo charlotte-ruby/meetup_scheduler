@@ -12,7 +12,8 @@ jobs:
           bundler-cache: true
       - name: debug
         run: |
-          gem list
+          pwd
+          ls -l
       - name: lint
         run: |
           ./bin/rubocop

@@ -12,6 +12,7 @@
 AllCops:
   Exclude:
     - bin/*
+    - vendor/**/*
   NewCops: enable
 
 plugins:
