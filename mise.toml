@@ -1,5 +1,12 @@
 [tools]
 ruby = '3.4.5'
 
-[tasks.rubocop]
-run = "bundle exec rubocop"
+[tasks.build]
+run = "bundle"
+alias = 'b'
+
+[tasks.tests]
+run = "./bin/rspec"
+
+[tasks.lint]
+run = "./bin/rubocop"
