@@ -1,0 +1,872 @@
+{
+  "slots": [
+    {
+      "start": "2025-10-07 09:00:00",
+      "end": "2025-10-07 09:30:00",
+      "itemId": 188973,
+      "checksum": "91d266bedc84e004a933e7f0c51fc465"
+    },
+    {
+      "start": "2025-10-07 09:30:00",
+      "end": "2025-10-07 10:00:00",
+      "itemId": 188973,
+      "checksum": "9ae34706078774f9cdd6425dd453ed86"
+    },
+    {
+      "start": "2025-10-07 10:00:00",
+      "end": "2025-10-07 10:30:00",
+      "itemId": 188973,
+      "checksum": "a45c2810df82b2dfa603d507002fb3f8"
+    },
+    {
+      "start": "2025-10-07 10:30:00",
+      "end": "2025-10-07 11:00:00",
+      "itemId": 188973,
+      "checksum": "01f4eb71f7d4822b5149e684bdbbb178"
+    },
+    {
+      "start": "2025-10-07 11:00:00",
+      "end": "2025-10-07 11:30:00",
+      "itemId": 188973,
+      "checksum": "a1d57cc3f2224eafeb73c0d48bfb52e3"
+    },
+    {
+      "start": "2025-10-07 11:30:00",
+      "end": "2025-10-07 12:00:00",
+      "itemId": 188973,
+      "checksum": "01462ea96832dcd85c942a7793d8086d"
+    },
+    {
+      "start": "2025-10-07 12:00:00",
+      "end": "2025-10-07 12:30:00",
+      "itemId": 188973,
+      "checksum": "2a7f03301b6abb87ee2a371cc0d2daf0"
+    },
+    {
+      "start": "2025-10-07 12:30:00",
+      "end": "2025-10-07 13:00:00",
+      "itemId": 188973,
+      "checksum": "31c1e28fdd5d11a27d4b18bd87713f24"
+    },
+    {
+      "start": "2025-10-07 13:00:00",
+      "end": "2025-10-07 13:30:00",
+      "itemId": 188973,
+      "checksum": "a9a643cf136ec8a414d5fd69a1e7922f",
+      "className": "s-lc-eq-checkout"
+    },
+    {
+      "start": "2025-10-07 13:30:00",
+      "end": "2025-10-07 14:00:00",
+      "itemId": 188973,
+      "checksum": "37cc7339f9f39bfccd4daf219f18da50",
+      "className": "s-lc-eq-checkout"
+    },
+    {
+      "start": "2025-10-07 14:00:00",
+      "end": "2025-10-07 14:30:00",
+      "itemId": 188973,
+      "checksum": "6f7c3b14127518f494edb66caf765ccb",
+      "className": "s-lc-eq-checkout"
+    },
+    {
+      "start": "2025-10-07 14:30:00",
+      "end": "2025-10-07 15:00:00",
+      "itemId": 188973,
+      "checksum": "372ffd7859c2ac66615bfcbe18aa5b2a",
+      "className": "s-lc-eq-checkout"
+    },
+    {
+      "start": "2025-10-07 15:00:00",
+      "end": "2025-10-07 15:30:00",
+      "itemId": 188973,
+      "checksum": "704ffea92d06e0f4e61e33294b1c2580",
+      "className": "s-lc-eq-checkout"
+    },
+    {
+      "start": "2025-10-07 15:30:00",
+      "end": "2025-10-07 16:00:00",
+      "itemId": 188973,
+      "checksum": "24d74dbf4323cfc1840a548d08dd4f58",
+      "className": "s-lc-eq-checkout"
+    },
+    {
+      "start": "2025-10-07 16:00:00",
+      "end": "2025-10-07 16:30:00",
+      "itemId": 188973,
+      "checksum": "c5e2d9be0f70615c1e1d54f4902cb4fa",
+      "className": "s-lc-eq-checkout"
+    },
+    {
+      "start": "2025-10-07 16:30:00",
+      "end": "2025-10-07 17:00:00",
+      "itemId": 188973,
+      "checksum": "f82946227df756089c7105c346a3adcf",
+      "className": "s-lc-eq-checkout"
+    },
+    {
+      "start": "2025-10-07 17:00:00",
+      "end": "2025-10-07 17:30:00",
+      "itemId": 188973,
+      "checksum": "2ef089878aff663384edf6fdf9de3e34"
+    },
+    {
+      "start": "2025-10-07 17:30:00",
+      "end": "2025-10-07 18:00:00",
+      "itemId": 188973,
+      "checksum": "f30dfa2873633bd478fbda180be13b38"
+    },
+    {
+      "start": "2025-10-07 18:00:00",
+      "end": "2025-10-07 18:30:00",
+      "itemId": 188973,
+      "checksum": "a4cf1d8292107711f3436a272a33a374"
+    },
+    {
+      "start": "2025-10-07 18:30:00",
+      "end": "2025-10-07 19:00:00",
+      "itemId": 188973,
+      "checksum": "fc89296a3d9226e36c671da2ee65fd95"
+    },
+    {
+      "start": "2025-10-07 19:00:00",
+      "end": "2025-10-07 19:30:00",
+      "itemId": 188973,
+      "checksum": "8d89496ac0b9bab9df518cdaddde3450",
+      "className": "s-lc-eq-checkout"
+    },
+    {
+      "start": "2025-10-07 19:30:00",
+      "end": "2025-10-07 20:00:00",
+      "itemId": 188973,
+      "checksum": "4e1c780431880d807d72f0cda66ca9a2",
+      "className": "s-lc-eq-checkout"
+    },
+    {
+      "start": "2025-10-08 09:00:00",
+      "end": "2025-10-08 09:30:00",
+      "itemId": 188973,
+      "checksum": "d54835fc0fa887ddb00e8e20ae016197",
+      "className": "s-lc-eq-checkout"
+    },
+    {
+      "start": "2025-10-08 09:30:00",
+      "end": "2025-10-08 10:00:00",
+      "itemId": 188973,
+      "checksum": "1cf13864f30f3c619fbda203db995b85",
+      "className": "s-lc-eq-checkout"
+    },
+    {
+      "start": "2025-10-08 10:00:00",
+      "end": "2025-10-08 10:30:00",
+      "itemId": 188973,
+      "checksum": "dc6dc2894dc57c3869a0b3edd637cca0",
+      "className": "s-lc-eq-checkout"
+    },
+    {
+      "start": "2025-10-08 10:30:00",
+      "end": "2025-10-08 11:00:00",
+      "itemId": 188973,
+      "checksum": "388063e3479aca4934030e0d53d04a71",
+      "className": "s-lc-eq-checkout"
+    },
+    {
+      "start": "2025-10-08 11:00:00",
+      "end": "2025-10-08 11:30:00",
+      "itemId": 188973,
+      "checksum": "22729c971d7dfef59cac14d297aab91a",
+      "className": "s-lc-eq-checkout"
+    },
+    {
+      "start": "2025-10-08 11:30:00",
+      "end": "2025-10-08 12:00:00",
+      "itemId": 188973,
+      "checksum": "c46a04fca4521e93d114d734132285c8",
+      "className": "s-lc-eq-checkout"
+    },
+    {
+      "start": "2025-10-08 12:00:00",
+      "end": "2025-10-08 12:30:00",
+      "itemId": 188973,
+      "checksum": "c06172747eb405c8dd1f06a40c671cfc",
+      "className": "s-lc-eq-checkout"
+    },
+    {
+      "start": "2025-10-08 12:30:00",
+      "end": "2025-10-08 13:00:00",
+      "itemId": 188973,
+      "checksum": "59c24fe8b91c67ff9913fc4ce35d8c53",
+      "className": "s-lc-eq-checkout"
+    },
+    {
+      "start": "2025-10-08 13:00:00",
+      "end": "2025-10-08 13:30:00",
+      "itemId": 188973,
+      "checksum": "968415f2ba9243b9f2d131b09a04084b",
+      "className": "s-lc-eq-checkout"
+    },
+    {
+      "start": "2025-10-08 13:30:00",
+      "end": "2025-10-08 14:00:00",
+      "itemId": 188973,
+      "checksum": "4a99006e0f735e4f241ba028d7f270d0",
+      "className": "s-lc-eq-checkout"
+    },
+    {
+      "start": "2025-10-08 14:00:00",
+      "end": "2025-10-08 14:30:00",
+      "itemId": 188973,
+      "checksum": "caffce590e1fc3f15987f962f753eaf7",
+      "className": "s-lc-eq-checkout"
+    },
+    {
+      "start": "2025-10-08 14:30:00",
+      "end": "2025-10-08 15:00:00",
+      "itemId": 188973,
+      "checksum": "e04842a75614b93355ec85b9025c104f",
+      "className": "s-lc-eq-checkout"
+    },
+    {
+      "start": "2025-10-08 15:00:00",
+      "end": "2025-10-08 15:30:00",
+      "itemId": 188973,
+      "checksum": "83b85d44e2b0b15c32066ba4317091b2",
+      "className": "s-lc-eq-checkout"
+    },
+    {
+      "start": "2025-10-08 15:30:00",
+      "end": "2025-10-08 16:00:00",
+      "itemId": 188973,
+      "checksum": "82b97a5ac521b3fafcdc66d1be11d0c8",
+      "className": "s-lc-eq-checkout"
+    },
+    {
+      "start": "2025-10-08 16:00:00",
+      "end": "2025-10-08 16:30:00",
+      "itemId": 188973,
+      "checksum": "593271fc129e10ddf3e6b8bbe87e7ab0",
+      "className": "s-lc-eq-checkout"
+    },
+    {
+      "start": "2025-10-08 16:30:00",
+      "end": "2025-10-08 17:00:00",
+      "itemId": 188973,
+      "checksum": "58db4b6702748dee45eeff2b68a2582e",
+      "className": "s-lc-eq-checkout"
+    },
+    {
+      "start": "2025-10-08 17:00:00",
+      "end": "2025-10-08 17:30:00",
+      "itemId": 188973,
+      "checksum": "3bd095d2ec4146a2f7b2944239b93373",
+      "className": "s-lc-eq-checkout"
+    },
+    {
+      "start": "2025-10-08 17:30:00",
+      "end": "2025-10-08 18:00:00",
+      "itemId": 188973,
+      "checksum": "860e3e6aff90c24b806fb28a22e1e849",
+      "className": "s-lc-eq-checkout"
+    },
+    {
+      "start": "2025-10-08 18:00:00",
+      "end": "2025-10-08 18:30:00",
+      "itemId": 188973,
+      "checksum": "dcd17505edd063905657a6fb587d5db1",
+      "className": "s-lc-eq-checkout"
+    },
+    {
+      "start": "2025-10-08 18:30:00",
+      "end": "2025-10-08 19:00:00",
+      "itemId": 188973,
+      "checksum": "3a7844812cfdde71906c3925655916a6",
+      "className": "s-lc-eq-checkout"
+    },
+    {
+      "start": "2025-10-08 19:00:00",
+      "end": "2025-10-08 19:30:00",
+      "itemId": 188973,
+      "checksum": "7aca09de00d34c4a74bd743539513236",
+      "className": "s-lc-eq-checkout"
+    },
+    {
+      "start": "2025-10-08 19:30:00",
+      "end": "2025-10-08 20:00:00",
+      "itemId": 188973,
+      "checksum": "b281644136f4278f0c69fb7e9c9fd2ce",
+      "className": "s-lc-eq-checkout"
+    },
+    {
+      "start": "2025-10-09 09:00:00",
+      "end": "2025-10-09 09:30:00",
+      "itemId": 188973,
+      "checksum": "2683011a5abafd8fdc06b9c265c4936f",
+      "className": "s-lc-eq-checkout"
+    },
+    {
+      "start": "2025-10-09 09:30:00",
+      "end": "2025-10-09 10:00:00",
+      "itemId": 188973,
+      "checksum": "002682ba8727e72bbfa7f35c9a77716f",
+      "className": "s-lc-eq-checkout"
+    },
+    {
+      "start": "2025-10-09 10:00:00",
+      "end": "2025-10-09 10:30:00",
+      "itemId": 188973,
+      "checksum": "6ae5e952eae0df526ca65e35e87a2762",
+      "className": "s-lc-eq-checkout"
+    },
+    {
+      "start": "2025-10-09 10:30:00",
+      "end": "2025-10-09 11:00:00",
+      "itemId": 188973,
+      "checksum": "570b5da8deca75ee31e68787401ec1e6",
+      "className": "s-lc-eq-checkout"
+    },
+    {
+      "start": "2025-10-09 11:00:00",
+      "end": "2025-10-09 11:30:00",
+      "itemId": 188973,
+      "checksum": "213804e3aea9dc21abeaf9cbddddfb0a",
+      "className": "s-lc-eq-checkout"
+    },
+    {
+      "start": "2025-10-09 11:30:00",
+      "end": "2025-10-09 12:00:00",
+      "itemId": 188973,
+      "checksum": "bf393cbc3b5be7b41954b02d839e3d73",
+      "className": "s-lc-eq-checkout"
+    },
+    {
+      "start": "2025-10-09 12:00:00",
+      "end": "2025-10-09 12:30:00",
+      "itemId": 188973,
+      "checksum": "4e0e44c2535605ed8cf7bb43b8abf1be",
+      "className": "s-lc-eq-checkout"
+    },
+    {
+      "start": "2025-10-09 12:30:00",
+      "end": "2025-10-09 13:00:00",
+      "itemId": 188973,
+      "checksum": "8224eff287b42d51e513291a85e483e6",
+      "className": "s-lc-eq-checkout"
+    },
+    {
+      "start": "2025-10-09 13:00:00",
+      "end": "2025-10-09 13:30:00",
+      "itemId": 188973,
+      "checksum": "2f55dc3c240e460af3581260951e20c8",
+      "className": "s-lc-eq-checkout"
+    },
+    {
+      "start": "2025-10-09 13:30:00",
+      "end": "2025-10-09 14:00:00",
+      "itemId": 188973,
+      "checksum": "2db05f05e852e0bb02aba75f34951c38",
+      "className": "s-lc-eq-checkout"
+    },
+    {
+      "start": "2025-10-09 14:00:00",
+      "end": "2025-10-09 14:30:00",
+      "itemId": 188973,
+      "checksum": "ab72a4ebb2ee71a4c59d65fc690e8187",
+      "className": "s-lc-eq-checkout"
+    },
+    {
+      "start": "2025-10-09 14:30:00",
+      "end": "2025-10-09 15:00:00",
+      "itemId": 188973,
+      "checksum": "91d10fc8a60f35c687d55ba6f6c01c5d",
+      "className": "s-lc-eq-checkout"
+    },
+    {
+      "start": "2025-10-09 15:00:00",
+      "end": "2025-10-09 15:30:00",
+      "itemId": 188973,
+      "checksum": "c565a141ea89d3e0eb7918aa1d0994f5",
+      "className": "s-lc-eq-checkout"
+    },
+    {
+      "start": "2025-10-09 15:30:00",
+      "end": "2025-10-09 16:00:00",
+      "itemId": 188973,
+      "checksum": "71ef1c81d5707b710d4f7e0d4672aa9d",
+      "className": "s-lc-eq-checkout"
+    },
+    {
+      "start": "2025-10-09 16:00:00",
+      "end": "2025-10-09 16:30:00",
+      "itemId": 188973,
+      "checksum": "2af12cc1c373f57685ffb7361ee6ef82",
+      "className": "s-lc-eq-checkout"
+    },
+    {
+      "start": "2025-10-09 16:30:00",
+      "end": "2025-10-09 17:00:00",
+      "itemId": 188973,
+      "checksum": "36918d2e48272716f15c19e37859cbe3",
+      "className": "s-lc-eq-checkout"
+    },
+    {
+      "start": "2025-10-09 17:00:00",
+      "end": "2025-10-09 17:30:00",
+      "itemId": 188973,
+      "checksum": "45035b6eb543524fa7f6b41db159d003",
+      "className": "s-lc-eq-checkout"
+    },
+    {
+      "start": "2025-10-09 17:30:00",
+      "end": "2025-10-09 18:00:00",
+      "itemId": 188973,
+      "checksum": "aab58ec9d855f3cc8f459f4899b70701",
+      "className": "s-lc-eq-checkout"
+    },
+    {
+      "start": "2025-10-09 18:00:00",
+      "end": "2025-10-09 18:30:00",
+      "itemId": 188973,
+      "checksum": "ffe9a6c53dc53190e26379ad7d475e01",
+      "className": "s-lc-eq-checkout"
+    },
+    {
+      "start": "2025-10-09 18:30:00",
+      "end": "2025-10-09 19:00:00",
+      "itemId": 188973,
+      "checksum": "fc1ecdd75e59146803b6fb919f8cc360",
+      "className": "s-lc-eq-checkout"
+    },
+    {
+      "start": "2025-10-09 19:00:00",
+      "end": "2025-10-09 19:30:00",
+      "itemId": 188973,
+      "checksum": "36ee0e9a7874e9d1d6a8a3fcd8819e36",
+      "className": "s-lc-eq-checkout"
+    },
+    {
+      "start": "2025-10-09 19:30:00",
+      "end": "2025-10-09 20:00:00",
+      "itemId": 188973,
+      "checksum": "3fa01b51b00534aa200f9e1ef385bd36",
+      "className": "s-lc-eq-checkout"
+    },
+    {
+      "start": "2025-10-10 09:00:00",
+      "end": "2025-10-10 09:30:00",
+      "itemId": 188973,
+      "checksum": "2134d28f61af7303015f463e27140540"
+    },
+    {
+      "start": "2025-10-10 09:30:00",
+      "end": "2025-10-10 10:00:00",
+      "itemId": 188973,
+      "checksum": "9e6ea016949872308a2c3eaa3489d2bb"
+    },
+    {
+      "start": "2025-10-10 10:00:00",
+      "end": "2025-10-10 10:30:00",
+      "itemId": 188973,
+      "checksum": "ee4c91d9d764a62febdf89986c6801d9"
+    },
+    {
+      "start": "2025-10-10 10:30:00",
+      "end": "2025-10-10 11:00:00",
+      "itemId": 188973,
+      "checksum": "cdd940ef8668ce17748f58124136b588"
+    },
+    {
+      "start": "2025-10-10 11:00:00",
+      "end": "2025-10-10 11:30:00",
+      "itemId": 188973,
+      "checksum": "5fc08d3dedc9760f25ffc4ca828067d0"
+    },
+    {
+      "start": "2025-10-10 11:30:00",
+      "end": "2025-10-10 12:00:00",
+      "itemId": 188973,
+      "checksum": "61466f2291e5670a6d34ff09d1c359ff"
+    },
+    {
+      "start": "2025-10-10 12:00:00",
+      "end": "2025-10-10 12:30:00",
+      "itemId": 188973,
+      "checksum": "f4b300eb5dea09ad149bcecea6ffbd7d"
+    },
+    {
+      "start": "2025-10-10 12:30:00",
+      "end": "2025-10-10 13:00:00",
+      "itemId": 188973,
+      "checksum": "25b404cda4b56d2eb1a31b0debfada7a"
+    },
+    {
+      "start": "2025-10-10 13:00:00",
+      "end": "2025-10-10 13:30:00",
+      "itemId": 188973,
+      "checksum": "31a7e42715633a238d7dee223c356b81"
+    },
+    {
+      "start": "2025-10-10 13:30:00",
+      "end": "2025-10-10 14:00:00",
+      "itemId": 188973,
+      "checksum": "447972fdfa65a4e9c72939f3157b63e1"
+    },
+    {
+      "start": "2025-10-10 14:00:00",
+      "end": "2025-10-10 14:30:00",
+      "itemId": 188973,
+      "checksum": "ae018ca490c52f40cd4262481be7c8dc"
+    },
+    {
+      "start": "2025-10-10 14:30:00",
+      "end": "2025-10-10 15:00:00",
+      "itemId": 188973,
+      "checksum": "a8d901612cc9df980e923580f981f6d9"
+    },
+    {
+      "start": "2025-10-10 15:00:00",
+      "end": "2025-10-10 15:30:00",
+      "itemId": 188973,
+      "checksum": "29757254e238816ab77a1e17a3a5c3ee"
+    },
+    {
+      "start": "2025-10-10 15:30:00",
+      "end": "2025-10-10 16:00:00",
+      "itemId": 188973,
+      "checksum": "fafb7a0ef4c3136f036025e892310d37"
+    },
+    {
+      "start": "2025-10-10 16:00:00",
+      "end": "2025-10-10 16:30:00",
+      "itemId": 188973,
+      "checksum": "cf741efb261004984cfb58c0272d3a76",
+      "className": "s-lc-eq-checkout"
+    },
+    {
+      "start": "2025-10-10 16:30:00",
+      "end": "2025-10-10 17:00:00",
+      "itemId": 188973,
+      "checksum": "e95397c7d0bbe7d60e95807c523217ad",
+      "className": "s-lc-eq-checkout"
+    },
+    {
+      "start": "2025-10-11 09:00:00",
+      "end": "2025-10-11 09:30:00",
+      "itemId": 188973,
+      "checksum": "61f29bce70ac880760aa87be69880235"
+    },
+    {
+      "start": "2025-10-11 09:30:00",
+      "end": "2025-10-11 10:00:00",
+      "itemId": 188973,
+      "checksum": "6c9fe7cb1d8ea4b289ad966c7d8e7538"
+    },
+    {
+      "start": "2025-10-11 10:00:00",
+      "end": "2025-10-11 10:30:00",
+      "itemId": 188973,
+      "checksum": "251c596f6a8dc5dba57ce2aac3e291ef",
+      "className": "s-lc-eq-checkout"
+    },
+    {
+      "start": "2025-10-11 10:30:00",
+      "end": "2025-10-11 11:00:00",
+      "itemId": 188973,
+      "checksum": "485db6e9bfa85c3a0a234414e67e4896",
+      "className": "s-lc-eq-checkout"
+    },
+    {
+      "start": "2025-10-11 11:00:00",
+      "end": "2025-10-11 11:30:00",
+      "itemId": 188973,
+      "checksum": "326f216947284f0c022d2093b35a584c",
+      "className": "s-lc-eq-checkout"
+    },
+    {
+      "start": "2025-10-11 11:30:00",
+      "end": "2025-10-11 12:00:00",
+      "itemId": 188973,
+      "checksum": "509099c38869e6d5d4b67a7800670209",
+      "className": "s-lc-eq-checkout"
+    },
+    {
+      "start": "2025-10-11 12:00:00",
+      "end": "2025-10-11 12:30:00",
+      "itemId": 188973,
+      "checksum": "9758b9ae9b0fe438440486f79d7cda40",
+      "className": "s-lc-eq-checkout"
+    },
+    {
+      "start": "2025-10-11 12:30:00",
+      "end": "2025-10-11 13:00:00",
+      "itemId": 188973,
+      "checksum": "b8e89779ae4b176cab13c85b2ab41245",
+      "className": "s-lc-eq-checkout"
+    },
+    {
+      "start": "2025-10-11 13:00:00",
+      "end": "2025-10-11 13:30:00",
+      "itemId": 188973,
+      "checksum": "542f5bb8a61d9416576ff9689bdaeea3",
+      "className": "s-lc-eq-checkout"
+    },
+    {
+      "start": "2025-10-11 13:30:00",
+      "end": "2025-10-11 14:00:00",
+      "itemId": 188973,
+      "checksum": "0feff2b4415f045d022bb5da761d9f49",
+      "className": "s-lc-eq-checkout"
+    },
+    {
+      "start": "2025-10-11 14:00:00",
+      "end": "2025-10-11 14:30:00",
+      "itemId": 188973,
+      "checksum": "2f0924036b9a824a80a72e9b0ed95600",
+      "className": "s-lc-eq-checkout"
+    },
+    {
+      "start": "2025-10-11 14:30:00",
+      "end": "2025-10-11 15:00:00",
+      "itemId": 188973,
+      "checksum": "9f6257718ac5ea61135fd781ed98943a",
+      "className": "s-lc-eq-checkout"
+    },
+    {
+      "start": "2025-10-11 15:00:00",
+      "end": "2025-10-11 15:30:00",
+      "itemId": 188973,
+      "checksum": "865a5cb6994b40adeb6bcf39db8babfa",
+      "className": "s-lc-eq-checkout"
+    },
+    {
+      "start": "2025-10-11 15:30:00",
+      "end": "2025-10-11 16:00:00",
+      "itemId": 188973,
+      "checksum": "b9a469bc07a7d11e6f5a23e3329c4a89",
+      "className": "s-lc-eq-checkout"
+    },
+    {
+      "start": "2025-10-11 16:00:00",
+      "end": "2025-10-11 16:30:00",
+      "itemId": 188973,
+      "checksum": "968315cc78ec55c43bc137663c7a8f4b",
+      "className": "s-lc-eq-checkout"
+    },
+    {
+      "start": "2025-10-11 16:30:00",
+      "end": "2025-10-11 17:00:00",
+      "itemId": 188973,
+      "checksum": "2f76f70070b83ea365de4b244fe6434f",
+      "className": "s-lc-eq-checkout"
+    },
+    {
+      "start": "2025-10-12 13:00:00",
+      "end": "2025-10-12 13:30:00",
+      "itemId": 188973,
+      "checksum": "b12029b63bbce361fef8d8d7e0db1e5f",
+      "className": "s-lc-eq-checkout"
+    },
+    {
+      "start": "2025-10-12 13:30:00",
+      "end": "2025-10-12 14:00:00",
+      "itemId": 188973,
+      "checksum": "a338ac190a993d8c58950192fe462407",
+      "className": "s-lc-eq-checkout"
+    },
+    {
+      "start": "2025-10-12 14:00:00",
+      "end": "2025-10-12 14:30:00",
+      "itemId": 188973,
+      "checksum": "99d01120b2beabe7edfb5868d1af180e",
+      "className": "s-lc-eq-checkout"
+    },
+    {
+      "start": "2025-10-12 14:30:00",
+      "end": "2025-10-12 15:00:00",
+      "itemId": 188973,
+      "checksum": "3ef4939b5d3777318c3d83f80b6c0b97",
+      "className": "s-lc-eq-checkout"
+    },
+    {
+      "start": "2025-10-12 15:00:00",
+      "end": "2025-10-12 15:30:00",
+      "itemId": 188973,
+      "checksum": "6652916a8216bf17e2fc2c8165aa6868",
+      "className": "s-lc-eq-checkout"
+    },
+    {
+      "start": "2025-10-12 15:30:00",
+      "end": "2025-10-12 16:00:00",
+      "itemId": 188973,
+      "checksum": "3c7603e42a03a066af3452a9e848ebb1",
+      "className": "s-lc-eq-checkout"
+    },
+    {
+      "start": "2025-10-12 16:00:00",
+      "end": "2025-10-12 16:30:00",
+      "itemId": 188973,
+      "checksum": "cf283587e87aa8608d5a2b7f2ac948fd",
+      "className": "s-lc-eq-checkout"
+    },
+    {
+      "start": "2025-10-12 16:30:00",
+      "end": "2025-10-12 17:00:00",
+      "itemId": 188973,
+      "checksum": "d30ba3d7f45211e5463af6ed4c7985d5",
+      "className": "s-lc-eq-checkout"
+    },
+    {
+      "start": "2025-10-13 09:00:00",
+      "end": "2025-10-13 09:30:00",
+      "itemId": 188973,
+      "checksum": "a321b060ce67f2a8223f1ec51dea4a5b",
+      "className": "s-lc-eq-checkout"
+    },
+    {
+      "start": "2025-10-13 09:30:00",
+      "end": "2025-10-13 10:00:00",
+      "itemId": 188973,
+      "checksum": "83269d3167041446276809e00d2ba9ab",
+      "className": "s-lc-eq-checkout"
+    },
+    {
+      "start": "2025-10-13 10:00:00",
+      "end": "2025-10-13 10:30:00",
+      "itemId": 188973,
+      "checksum": "846d02ec2966c245e57000cb450f19be",
+      "className": "s-lc-eq-checkout"
+    },
+    {
+      "start": "2025-10-13 10:30:00",
+      "end": "2025-10-13 11:00:00",
+      "itemId": 188973,
+      "checksum": "9a8cf8d60b084d578e9b62ac4711c4e5",
+      "className": "s-lc-eq-checkout"
+    },
+    {
+      "start": "2025-10-13 11:00:00",
+      "end": "2025-10-13 11:30:00",
+      "itemId": 188973,
+      "checksum": "bc14ace57e27df68310b54dadf1dee59",
+      "className": "s-lc-eq-checkout"
+    },
+    {
+      "start": "2025-10-13 11:30:00",
+      "end": "2025-10-13 12:00:00",
+      "itemId": 188973,
+      "checksum": "8262528c625303ea23d7434a007608ab",
+      "className": "s-lc-eq-checkout"
+    },
+    {
+      "start": "2025-10-13 12:00:00",
+      "end": "2025-10-13 12:30:00",
+      "itemId": 188973,
+      "checksum": "6d573ebdac7fce7106a8cadde1c6d3ef",
+      "className": "s-lc-eq-checkout"
+    },
+    {
+      "start": "2025-10-13 12:30:00",
+      "end": "2025-10-13 13:00:00",
+      "itemId": 188973,
+      "checksum": "82e92c2080cb571f9850459d9a0a868e",
+      "className": "s-lc-eq-checkout"
+    },
+    {
+      "start": "2025-10-13 13:00:00",
+      "end": "2025-10-13 13:30:00",
+      "itemId": 188973,
+      "checksum": "a7718821a1001f734c53ab208fc4fdb5",
+      "className": "s-lc-eq-checkout"
+    },
+    {
+      "start": "2025-10-13 13:30:00",
+      "end": "2025-10-13 14:00:00",
+      "itemId": 188973,
+      "checksum": "b592105e97f24bc76683c78f1afc0f03",
+      "className": "s-lc-eq-checkout"
+    },
+    {
+      "start": "2025-10-13 14:00:00",
+      "end": "2025-10-13 14:30:00",
+      "itemId": 188973,
+      "checksum": "387ad6177e41630292b1d9394dfeac65",
+      "className": "s-lc-eq-checkout"
+    },
+    {
+      "start": "2025-10-13 14:30:00",
+      "end": "2025-10-13 15:00:00",
+      "itemId": 188973,
+      "checksum": "94bfd34fb0feab1942a6b1bf8ddfc1d6",
+      "className": "s-lc-eq-checkout"
+    },
+    {
+      "start": "2025-10-13 15:00:00",
+      "end": "2025-10-13 15:30:00",
+      "itemId": 188973,
+      "checksum": "e847408b7342f50bd58216454cd71332",
+      "className": "s-lc-eq-checkout"
+    },
+    {
+      "start": "2025-10-13 15:30:00",
+      "end": "2025-10-13 16:00:00",
+      "itemId": 188973,
+      "checksum": "a335f18ef84082836e30c73363208bab",
+      "className": "s-lc-eq-checkout"
+    },
+    {
+      "start": "2025-10-13 16:00:00",
+      "end": "2025-10-13 16:30:00",
+      "itemId": 188973,
+      "checksum": "32084378a401bbbc5ae05dfba34c154c",
+      "className": "s-lc-eq-checkout"
+    },
+    {
+      "start": "2025-10-13 16:30:00",
+      "end": "2025-10-13 17:00:00",
+      "itemId": 188973,
+      "checksum": "8492499e73a31748f6282646006949fe",
+      "className": "s-lc-eq-checkout"
+    },
+    {
+      "start": "2025-10-13 17:00:00",
+      "end": "2025-10-13 17:30:00",
+      "itemId": 188973,
+      "checksum": "7db400602c63ceb0354283b38feb4e02",
+      "className": "s-lc-eq-checkout"
+    },
+    {
+      "start": "2025-10-13 17:30:00",
+      "end": "2025-10-13 18:00:00",
+      "itemId": 188973,
+      "checksum": "c7a31fa3c15a726564bf8cc197f3bf33",
+      "className": "s-lc-eq-checkout"
+    },
+    {
+      "start": "2025-10-13 18:00:00",
+      "end": "2025-10-13 18:30:00",
+      "itemId": 188973,
+      "checksum": "9905c57d0e1fc509007bdc01f6ea353f",
+      "className": "s-lc-eq-checkout"
+    },
+    {
+      "start": "2025-10-13 18:30:00",
+      "end": "2025-10-13 19:00:00",
+      "itemId": 188973,
+      "checksum": "0678e749122510bde53fb67b2e873cff",
+      "className": "s-lc-eq-checkout"
+    },
+    {
+      "start": "2025-10-13 19:00:00",
+      "end": "2025-10-13 19:30:00",
+      "itemId": 188973,
+      "checksum": "c6f1369fb870de14daca4f697ba55e0f",
+      "className": "s-lc-eq-checkout"
+    },
+    {
+      "start": "2025-10-13 19:30:00",
+      "end": "2025-10-13 20:00:00",
+      "itemId": 188973,
+      "checksum": "ff0fcface2f84252285745d590b0dfd8",
+      "className": "s-lc-eq-checkout"
+    }
+  ]
+}

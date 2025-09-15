@@ -1,0 +1,19 @@
+curl 'https://cmlibrary.libcal.com/ajax/space/book' \
+  --compressed \
+  -X POST \
+  -H 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:142.0) Gecko/20100101 Firefox/142.0' \
+  -H 'Accept: application/json, text/javascript, */*; q=0.01' \
+  -H 'Accept-Language: en-US,en;q=0.5' \
+  -H 'Accept-Encoding: gzip, deflate, br, zstd' \
+  -H 'Referer: https://cmlibrary.libcal.com/spaces?lid=17350&gid=36796' \
+  -H 'Content-Type: multipart/form-data; boundary=----geckoformboundary7604b5d185144730877ce94230902b85' \
+  -H 'Origin: https://cmlibrary.libcal.com' \
+  -H 'Connection: keep-alive' \
+  -H 'Sec-Fetch-Dest: empty' \
+  -H 'Sec-Fetch-Mode: cors' \
+  -H 'Sec-Fetch-Site: same-origin' \
+  -H 'Priority: u=0' \
+  --data-binary \
+  $'------geckoformboundary7604b5d185144730877ce94230902b85\r\nContent-Disposition: form-data; name="session"\r\n\r\n75609033\r\n------geckoformboundary7604b5d185144730877ce94230902b85\r\nContent-Disposition: form-data; name="fname"\r\n\r\nMatt\r\n------geckoformboundary7604b5d185144730877ce94230902b85\r\nContent-Disposition: form-data; name="lname"\r\n\r\nMcMahand\r\n------geckoformboundary7604b5d185144730877ce94230902b85\r\nContent-Disposition: form-data; name="email"\r\n\r\nmmcmahand@gmail.com\r\n------geckoformboundary7604b5d185144730877ce94230902b85\r\nContent-Disposition: form-data; name="q9763"\r\n\r\n7049811234\r\n------geckoformboundary7604b5d185144730877ce94230902b85\r\nContent-Disposition: form-data; name="bookings"\r\n\r\n[{"id":1,"eid":146679,"seat_id":0,"gid":36796,"lid":17350,"start":"2025-09-15 11:30","end":"2025-09-15 12:30","checksum":"ff1dee411bdc2db058acc3f6685b62c2"}]\r\n------geckoformboundary7604b5d185144730877ce94230902b85\r\nContent-Disposition: form-data; name="returnUrl"\r\n\r\n/spaces?lid=17350&gid=36796\r\n------geckoformboundary7604b5d185144730877ce94230902b85\r\nContent-Disposition: form-data; name="pickupHolds"\r\n\r\n\r\n------geckoformboundary7604b5d185144730877ce94230902b85\r\nContent-Disposition: form-data; name="method"\r\n\r\n11\r\n------geckoformboundary7604b5d185144730877ce94230902b85--\r\n'
+
+

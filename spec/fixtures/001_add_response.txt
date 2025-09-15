@@ -1,0 +1,86 @@
+{
+        "bookings": [
+                {
+                        "id": 1,
+                        "eid": 146679,
+                        "seat_id": 0,
+                        "gid": 36796,
+                        "lid": 17350,
+                        "start": "2025-09-15 11:30:00",
+                        "end": "2025-09-15 12:30:00",
+                        "checksum": "ff1dee411bdc2db058acc3f6685b62c2",
+                        "options": [
+                                "2025-09-15 12:00:00",
+                                "2025-09-15 12:30:00",
+                                "2025-09-15 13:00:00"
+                        ],
+                        "optionSelected": 1,
+                        "optionChecksums": [
+                                "11e38b80e17b3ac21effe92b1350ceb5",
+                                "a101fa753a2278e6dd78a66d36186925",
+                                "cafc822ae66391752b36e9c183d2d359"
+                        ],
+                        "cost": 0
+                }
+        ],
+        "gridUpdateData": {
+                "itemId": 146679,
+                "dateStart": "2025-09-15 09:00:00",
+                "dateEnd": "2025-09-15 20:00:00",
+                "gridData": [
+                        {
+                                "start": "2025-09-15 10:00:00",
+                                "className": "s-lc-eq-checkout"
+                        },
+                        {
+                                "start": "2025-09-15 10:30:00",
+                                "className": "s-lc-eq-checkout"
+                        },
+                        {
+                                "start": "2025-09-15 11:00:00",
+                                "className": "s-lc-eq-checkout"
+                        },
+                        {
+                                "start": "2025-09-15 11:30:00",
+                                "className": "s-lc-eq-pending"
+                        },
+                        {
+                                "start": "2025-09-15 12:00:00",
+                                "className": "s-lc-eq-pending"
+                        },
+                        {
+                                "start": "2025-09-15 13:00:00",
+                                "className": "s-lc-eq-checkout"
+                        },
+                        {
+                                "start": "2025-09-15 13:30:00",
+                                "className": "s-lc-eq-checkout"
+                        },
+                        {
+                                "start": "2025-09-15 14:00:00",
+                                "className": "s-lc-eq-checkout"
+                        },
+                        {
+                                "start": "2025-09-15 14:30:00",
+                                "className": "s-lc-eq-checkout"
+                        },
+                        {
+                                "start": "2025-09-15 15:30:00",
+                                "className": "s-lc-eq-checkout"
+                        },
+                        {
+                                "start": "2025-09-15 16:00:00",
+                                "className": "s-lc-eq-checkout"
+                        },
+                        {
+                                "start": "2025-09-15 16:30:00",
+                                "className": "s-lc-eq-checkout"
+                        },
+                        {
+                                "start": "2025-09-15 19:30:00",
+                                "className": "s-lc-eq-checkout"
+                        }
+                ]
+        },
+        "limitIssues": null
+}
