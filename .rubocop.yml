@@ -12,7 +12,7 @@
 AllCops:
   Exclude:
     - bin/*
+  NewCops: enable
 
 plugins:
   - rubocop-rspec
-
