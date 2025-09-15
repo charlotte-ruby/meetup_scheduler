@@ -1,0 +1,16 @@
+name: Build App
+
+on: [push, pull_request]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-ruby@v1.1.3
+      - name: "hello ruby"
+        run: |
+          which ruby
+          which gem
+          gem env
+          ruby -e "puts 'hello'"

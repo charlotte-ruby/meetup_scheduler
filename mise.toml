@@ -1,0 +1,5 @@
+[tools]
+ruby = '3.4.5'
+
+[tasks.rubocop]
+run = "bundle exec rubocop"
