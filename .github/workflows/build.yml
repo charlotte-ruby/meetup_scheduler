@@ -7,10 +7,15 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v5
-      - uses: actions/setup-ruby@v1.1.3
-      - name: "hello ruby"
+      - uses: ruby/setup-ruby@v1
+        with:
+          bundler-cache: true
+      - name: debug
         run: |
-          which ruby
-          which gem
-          gem env
-          ruby -e "puts 'hello'"
+          gem list
+      - name: lint
+        run: |
+          ./bin/rubocop
+      - name: tests
+        run: |
+          ./bin/rspec
